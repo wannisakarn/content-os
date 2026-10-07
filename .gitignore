@@ -1,0 +1,9 @@
+# ข้อมูลจริงของแต่ละคนไม่ขึ้น GitHub (เก็บเฉพาะแบรนด์ตัวอย่าง)
+data/brands/*
+!data/brands/index.json
+!data/brands/mali-skin/
+!data/brands/baan-coffee/
+data/backups/
+data/archive/
+*.tmp
+วิธีอัปโหลดขึ้น GitHub.txt
